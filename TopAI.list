@@ -1,0 +1,69 @@
+# TopAI.list
+# 高频AI服务域名清单 (对话类 + 绘画类 + 视频类)
+# 用于 clash 分流
+# 更新时间: 2025-09-13
+
+###########
+# 对话类
+###########
+# OpenAI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com  # OpenAI Sora 视频生成
+
+# Claude / Anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# Google AI (Gemini / NotebookLM)
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,deepmind.com
+
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+
+
+
+###########
+# 绘画类
+###########
+# MidJourney
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,midjourney.io
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+
+# Stability AI (Stable Diffusion)
+DOMAIN-SUFFIX,stability.ai
+
+# Runway
+DOMAIN-SUFFIX,runwayml.com
+
+# Civitai (模型社区)
+DOMAIN-SUFFIX,civitai.com
+
+# PlaygroundAI
+DOMAIN-SUFFIX,playgroundai.com
+
+###########
+# 视频/多模态
+###########
+# Pika Labs
+DOMAIN-SUFFIX,pika.art
+
+# Runway (视频也用到)
+DOMAIN-SUFFIX,runwayml.com
+
+# HeyGen (视频数字人)
+DOMAIN-SUFFIX,heygen.com
+
+# ElevenLabs (语音合成)
+DOMAIN-SUFFIX,elevenlabs.io
+
+# Replit / Replicate
+DOMAIN-SUFFIX,replicate.com
