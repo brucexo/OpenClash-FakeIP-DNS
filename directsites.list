@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,open.feishu.cn
 DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,xbrand.eu.org
+DOMAIN-SUFFIX,multica.ai
 DOMAIN-SUFFIX,onemind.eu.org
 DOMAIN-SUFFIX,mindlink.eu.org
 DOMAIN-SUFFIX,iconfinder.com
@@ -27,3 +28,4 @@ DOMAIN-SUFFIX,splunkcloud.com
 # 常用第三方组件 (可选)
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+
