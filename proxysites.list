@@ -8,5 +8,4 @@ DOMAIN-SUFFIX,logodiffusion.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,abrand.eu.org
-IP-CIDR,104.168.19.122/32,no-resolve
+
