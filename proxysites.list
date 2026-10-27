@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,abrand.eu.org
-104.168.19.122
+IP-CIDR,104.168.19.122/32
