@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 
+# 跨境电商 OZON
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,lianlianpay.com
+DOMAIN-SUFFIX,ozonru.cn
