@@ -27,8 +27,25 @@ DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 
-# 跨境电商 OZON
+# 1. 主站、卖家后台与短链
 DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,lianlianpay.com
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonru.cn
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.kz
+DOMAIN-KEYWORD,ozon
+DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozonru.cn
 DOMAIN-SUFFIX,ozone.ru
+
+# 2. 核心图片、视频与前端静态资源 CDN（提速关键）
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,ozonstatic.com
+DOMAIN-SUFFIX,cdn1.ozone.ru
+DOMAIN-SUFFIX,ir.ozone.ru
+
+# 3. 支付与常见配套服务（按需保留）
+DOMAIN-SUFFIX,lianlianpay.com
+
+# 4. Ozon 官方 ASN 自治系统号（兜底纯 IP 流量）
+IP-ASN,200350,no-resolve
