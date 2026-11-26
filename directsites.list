@@ -51,7 +51,6 @@ DOMAIN-SUFFIX,lianlianpay.com
 IP-ASN,200350,no-resolve
 
 # 5. Tailscale 直连/绕过（网段、域名与 WireGuard UDP 端口 41641）
-IP-CIDR,100.64.0.0/10,no-resolve
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
-DST-PORT,41641
+IP-CIDR,100.64.0.0/10,no-resolve
